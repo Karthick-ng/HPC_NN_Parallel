@@ -1,6 +1,4 @@
-//
-// Created by nihil on 08/12/20.
-//
+
 
 #include "sparse_linear_layer.hpp"
 #include <cstring>
