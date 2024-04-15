@@ -1,6 +1,4 @@
-//
-// Created by nihil on 08/12/20.
-//
+
 
 #include "matrix.hpp"
 #include <iomanip>
