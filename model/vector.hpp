@@ -1,6 +1,4 @@
-//
-// Created by nihil on 08/12/20.
-//
+
 
 #ifndef OPENMP_NN_VECTOR_HPP
 #define OPENMP_NN_VECTOR_HPP
