@@ -1,6 +1,3 @@
-//
-// Created by nihil on 08/12/20.
-//
 
 #include "neural_network.hpp"
 #include <stdexcept>
